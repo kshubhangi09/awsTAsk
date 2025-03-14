@@ -1,0 +1,16 @@
+account_id: '897722692779'
+deploy_target_bucket: syndicate-education-platform-custom-sandbox-artifacts-8660/a7f42124/task08
+expiration: 2025-03-14 06:21:33.253896+00:00
+extended_prefix_mode: true
+project_path: C:\Users\shubhangi_kumari\awsTAsk
+region: eu-west-1
+resources_prefix: cmtr-a7f42124-
+tags:
+  run_id: JAP-09
+  run_type: stm
+  type: user
+  user_id: a7f42124
+temp_aws_access_key_id: ASIA5CBDRGSV3BS3PDQJ
+temp_aws_secret_access_key: e0LEDyqPcPT7LYyotdiIso1vJ0KR49r8TBfUFt87
+temp_aws_session_token: IQoJb3JpZ2luX2VjEJ7//////////wEaCXVzLWVhc3QtMSJGMEQCIAqyJpXSNwzE5r56teB7/dB5V5wZO/IybmUUQFKTCmYAAiAdsZT73MLJ8ZFeUbeSvkaf5Hvym+0sN2ZrbjHMltzT3iriAgjn//////////8BEAAaDDg5NzcyMjY5Mjc3OSIMeVIJqd6BIyqwQaneKrYCacndwE7FMdDsdzpQeeNZ5ixdrfUhpUEJFz6BR/nQzvbR+QA5F7RNzC2sw39oA/jA88lXaUUatVeeAs96y3BokbSvvttRRhGSw50UDIsZIyqHq/kq6bWKuoZTxxxsWX2Ir854Lz6RbAffejKcKHsSKNVkXnY77fovr5QWkArm6c39gJmitenFyvevxXG9CoTZJI/wdWB1ElhtVTehWqt6/SL8nx74z+9mwY41nCAstZgqSVqbxGTZLGRHbB6f0Y1sa1C43RS+guGfrWPM8O5pGO2LeqcSNmRFYRr9mmYX7kDhyKWS94O99VfWeXrwop/H2lNC9MhzZ2SdvIUvfz4xshvE4nLhdIU80pK/RSEpf0jS76YZ1i93VX6QSFwdg/1qCOtyIYGh7NSV7K2HL1SQzsX3MZmeZzCH/s6+BjqeAUQlCq+J01KCE3+C1sCWWfmzX2lMyqsV4LiY+eB+fKm30oETuTY9Q7jJ08nXiWtp/pHCvCJ3bKiYtR/k3QQiv3GSDYVekkw9g+SXO51mPZdDLfUlvONei4pQY1h+El3DLzLfA1kgDrlD7+CI9RX9aD4q47k4rlgV6RKFlMpBaV6vbHkoX+LRngUg/5ddwqWXqHf2WGjsNSM0m4zyQS6+
+use_temp_creds: false
