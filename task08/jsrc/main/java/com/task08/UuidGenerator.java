@@ -72,8 +72,3 @@ public class UuidGenerator implements RequestHandler<Object, Map<String, Object>
 		return response;
 	}
 }
-
-
-
-
-
