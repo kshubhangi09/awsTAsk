@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="weather_sdk_layer">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/lambdas/layers/weather_sdk/weather_sdk_layer.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
